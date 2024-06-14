@@ -1,0 +1,134 @@
+*****(1st time creator)
+
+create repo
+
+add colab
+
+create folder
+
+git bash
+
+git init
+
+create project
+
+git add --all
+
+git commit -m "message"
+
+git remote add origin <url>
+
+git push origin master 
+
+make master as default in github repo delete the main there
+
+git branch
+
+git branch branch1
+
+git checkout branch1(all the files will be same as master by default)
+
+make changes
+
+git add --all
+
+git commit -m "done2"
+
+git push origin branch1
+
+go to github pull request and merge the branch1 branch with master branch there
+
+
+*****(1st time collab)
+
+create folder 
+
+
+git bash 
+git init
+
+git clone <url>
+
+erpor folder e dhuke git bash
+
+git remote add origin <url>
+
+git branch
+
+git branch branch2
+
+git checkout branch2(all the files will be same as master by default)
+
+make changes
+
+git add --all
+
+git commit -m "message"
+
+git push origin branch2
+
+go to github pull request and merge the branch2 branch with master branch there
+
+
+
+*****(2nd time creator)
+
+go to folder
+
+git bash
+
+git init
+
+git checkout master
+
+git pull(error)
+
+git branch --set-upstream-to=origin/master
+
+git pull(present updated version will be pulled)
+
+git checkout branch1
+
+git merge master
+
+make changes
+
+git add --all
+
+git commit -m "message"
+
+git push origin branch1
+
+go to github pull request and merge the branch1 branch with master branch there
+
+
+*****(2nd time collab)
+
+
+git checkout master
+
+git pull(error হলে - git branch --set-upstream-to=origin/master)
+
+git checkout branch2
+
+git merge master
+
+make change
+
+add
+
+commit
+
+push 
+
+merge from github
+
+
+
+
+
+
+
+
+
+
